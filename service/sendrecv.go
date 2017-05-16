@@ -21,7 +21,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/surge/glog"
+	"github.com/liaoliaopro/surgemq/glog"
 	"github.com/liaoliaopro/surgemq/message"
 )
 

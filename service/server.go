@@ -24,9 +24,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/surge/glog"
-	"github.com/liaoliaopro/surgemq/message"
 	"github.com/liaoliaopro/surgemq/auth"
+	"github.com/liaoliaopro/surgemq/glog"
+	"github.com/liaoliaopro/surgemq/message"
 	"github.com/liaoliaopro/surgemq/sessions"
 	"github.com/liaoliaopro/surgemq/topics"
 )

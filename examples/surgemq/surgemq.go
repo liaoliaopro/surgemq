@@ -21,7 +21,7 @@ import (
 	"os/signal"
 	"runtime/pprof"
 
-	"github.com/surge/glog"
+	"github.com/liaoliaopro/surgemq/glog"
 	"github.com/liaoliaopro/surgemq/service"
 )
 
